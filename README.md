@@ -1,7 +1,7 @@
 # Meu primeiro PORTFÓLIO
 Sistema de Classificação de Risco para concessão de Empréstimos
 
-# PROBLEMA DO NEGOCIO;
+# PROBLEMA DO NEGOCIO
   Nesse projeto, eu construi um sistema de classificação de risco empréstimo que a partir de dados do cliente a maquina preditiva vai havaliar e dizer si o risco para este emprestimo é Risco_Alto, Risco_Médio ou Risco_Baixo.
   Então a partir da resposta do modelo de machine learning, cabe a pessoa que está avaliando a solicidação do emprestimo do cliente aceitar ou negar o emprestimo.
 
